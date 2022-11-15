@@ -11,8 +11,8 @@
 
 - Run the application using by `yarn dev`
 
-8. Once the application started, connected the application to my metamask account and uploaded an image to mint as nft
+- Uploaded an image to mint as nft
 ![Alt text](/NFT-Moralis-main/mint.jpeg?raw=true "Optional Title")
 
-9. Checked my opensea testnet account and could Confirmed the created NFT by opening testnet
+- Confirmed the created NFT by opening testnet
 ![Alt text](/NFT-Moralis-main/nft.jpeg?raw=true "Optional Title")
